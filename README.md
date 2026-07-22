@@ -21,6 +21,7 @@ what you're learning, or what kind of work you'd like to collaborate on.
 
 | Project | Description | Stack |
 |---|---|---|
+| [Mindles](https://mindles.lucina.dev) | Companion app for UFRGS students | TypeScript |
 | [pokemon-tcg-deck-builder](https://github.com/lucy-dot-exe/pokemon-tcg-deck-builder) | Pokémon TCG deck builder ([live demo](https://lucy-dot-exe.github.io/pokemon-tcg-deck-builder/)) | TypeScript |
 | [othello-ai-server](https://github.com/lucy-dot-exe/othello-ai-server) · [othello-alpha-beta](https://github.com/lucy-dot-exe/othello-alpha-beta) | Othello/Reversi AI — server ([live demo](https://othello-ai-server.vercel.app)) + alpha-beta search engine | TypeScript, Python |
 | [twitter-plays-pokemon](https://github.com/lucy-dot-exe/twitter-plays-pokemon) | Twitter-chat-controlled Pokémon, à la Twitch Plays | TypeScript |
