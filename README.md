@@ -2,17 +2,11 @@
 
 <p align="center">
   <a href="https://github.com/lucy-dot-exe">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=460&lines=Building+things+for+fun+and+for+keeps;Pok%C3%A9mon+%2B+AI+%2B+web+experiments;Always+shipping+something+small" alt="Typing animation" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8A2BE2&center=true&vCenter=true&width=460&lines=Building+things+for+fun+and+for+keeps;Games+%2B+web+experiments;Always+shipping+something+small" alt="Typing animation" />
   </a>
 </p>
 
-<!--
-Edit me: a couple of sentences about what you're focused on right now,
-what you're learning, or what kind of work you'd like to collaborate on.
--->
-- 🔭 Currently building small, self-contained projects — games, tools, and web experiments
-- 🌱 Into AI/agent tooling, game AI, and full-stack TypeScript
-- 💬 Ask me about Pokémon-adjacent side projects or game AI
+- 🔭 Currently building [Yuuna](https://github.com/lucy-dot-exe/yuuna), a lightweight state-machine game engine, plus other small self-contained projects
 - 📫 Reach me via GitHub
 
 ---
@@ -22,17 +16,17 @@ what you're learning, or what kind of work you'd like to collaborate on.
 | Project | Description | Stack |
 |---|---|---|
 | [Mindles](https://mindles.lucina.dev) | Companion app for UFRGS students | TypeScript |
+| [yuuna](https://github.com/lucy-dot-exe/yuuna) | Lightweight state-machine-based game engine for quick prototypes ([live demo](https://lucy-dot-exe.github.io/yuuna/)) | TypeScript |
 | [pokemon-tcg-deck-builder](https://github.com/lucy-dot-exe/pokemon-tcg-deck-builder) | Pokémon TCG deck builder ([live demo](https://lucy-dot-exe.github.io/pokemon-tcg-deck-builder/)) | TypeScript |
-| [othello-ai-server](https://github.com/lucy-dot-exe/othello-ai-server) · [othello-alpha-beta](https://github.com/lucy-dot-exe/othello-alpha-beta) | Othello/Reversi AI — server ([live demo](https://othello-ai-server.vercel.app)) + alpha-beta search engine | TypeScript, Python |
 | [twitter-plays-pokemon](https://github.com/lucy-dot-exe/twitter-plays-pokemon) | Twitter-chat-controlled Pokémon, à la Twitch Plays | TypeScript |
 | [RestGBA](https://github.com/lucy-dot-exe/RestGBA) | REST API for a GBA emulator | TypeScript |
+| [othello-ai-server](https://github.com/lucy-dot-exe/othello-ai-server) · [othello-alpha-beta](https://github.com/lucy-dot-exe/othello-alpha-beta) | Othello/Reversi AI — server ([live demo](https://othello-ai-server.vercel.app)) + alpha-beta search engine | TypeScript, Python |
 | [almond](https://github.com/lucy-dot-exe/almond) | Web app ([live demo](https://almond-nine.vercel.app)) | TypeScript |
 | [photo-editor](https://github.com/lucy-dot-exe/photo-editor) | Browser-based photo editing app | TypeScript |
 | [reapers-reach](https://github.com/lucy-dot-exe/reapers-reach) | Game project | C++ |
 | [cppsync](https://github.com/lucy-dot-exe/cppsync) | Sync utility | C++ |
 | [dfa-minimizer](https://github.com/lucy-dot-exe/dfa-minimizer) | DFA minimization tool | TypeScript |
 
-<!-- Edit me: swap in whichever repos you're proudest of, reorder, or add descriptions if the GitHub ones are blank. -->
 
 <details>
 <summary>Other repos (academic)</summary>
@@ -56,7 +50,6 @@ what you're learning, or what kind of work you'd like to collaborate on.
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucy-dot-exe&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lucy-dot-exe&theme=radical&hide_border=true" alt="GitHub streak" />
 </p>
 
