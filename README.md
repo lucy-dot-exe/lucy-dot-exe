@@ -38,6 +38,14 @@
 
 ---
 
+## 🎮 Games published
+
+| Game | Description | Built with |
+|---|---|---|
+| [Yuuna's TD](https://lucinaexe.itch.io/yuunas-td) | Tower defense game, playable on itch.io | [yuuna](https://github.com/lucy-dot-exe/yuuna) |
+
+---
+
 ## 🛠 Tech stack
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
