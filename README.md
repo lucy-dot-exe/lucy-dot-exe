@@ -15,24 +15,29 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| [Mindles](https://mindles.lucina.dev) | Companion app for UFRGS students | TypeScript |
-| [yuuna](https://github.com/lucy-dot-exe/yuuna) | Lightweight state-machine-based game engine for quick prototypes ([live demo](https://lucy-dot-exe.github.io/yuuna/)) | TypeScript |
-| [pokemon-tcg-deck-builder](https://github.com/lucy-dot-exe/pokemon-tcg-deck-builder) | Pokémon TCG deck builder ([live demo](https://lucy-dot-exe.github.io/pokemon-tcg-deck-builder/)) | TypeScript |
-| [twitter-plays-pokemon](https://github.com/lucy-dot-exe/twitter-plays-pokemon) | Twitter-chat-controlled Pokémon, à la Twitch Plays | TypeScript |
+| [Yuuna Engine](https://github.com/lucy-dot-exe/yuuna) | Lightweight state-machine-based game engine for quick prototypes ([live demo](https://lucy-dot-exe.github.io/yuuna/)) | TypeScript |
+| [Deck Builder for Pokémon TCG](https://github.com/lucy-dot-exe/pokemon-tcg-deck-builder) | A WebApp Pokémon TCG deck builder ([live demo](https://lucy-dot-exe.github.io/pokemon-tcg-deck-builder/)) | TypeScript |
+| [Twitter Plays Pokemon](https://github.com/lucy-dot-exe/twitter-plays-pokemon) | Twitter-chat-controlled Pokémon, à la Twitch Plays | TypeScript |
 | [RestGBA](https://github.com/lucy-dot-exe/RestGBA) | REST API for a GBA emulator | TypeScript |
-| [othello-alpha-beta](https://github.com/lucy-dot-exe/othello-alpha-beta) | Othello/Reversi alpha-beta search engine | Python |
-| [almond](https://github.com/lucy-dot-exe/almond) | Web app ([live demo](https://almond-nine.vercel.app)) | TypeScript |
+| [Almond](https://github.com/lucy-dot-exe/almond) | Lightweight alternative to Hazel | TypeScript |
 
+---
+
+## 🎓 Academic projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Mindles](https://mindles.lucina.dev) | Companion app for UFRGS students | TypeScript |
+| [Neander](https://github.com/lucy-dot-exe/neander) | A web workbench for **Neander**, the 8-bit teaching computer designed by Raul Weber and used in the computer architecture courses at UFRGS | TypeScript |
+| [Compiladores](https://github.com/lucy-dot-exe/compiladores) | UFRGS Compilers coursework | Rust |
+| [Alpha-beta Othello AI](https://github.com/lucy-dot-exe/othello-alpha-beta) | an Alpha-beta Othello AI | Python |
+| [Othello AI Server](https://github.com/lucy-dot-exe/othello-ai-server) | Othello/Reversi AI server ([live demo](https://othello-ai-server.vercel.app)) | TypeScript |
 
 <details>
-<summary>Other repos (academic)</summary>
+<summary>Other academic repos</summary>
 
-- [ufrgs-mlp-lab8](https://github.com/lucy-dot-exe/ufrgs-mlp-lab8) — Multilayer perceptron lab, UFRGS coursework ([live demo](https://lucy-dot-exe.github.io/ufrgs-mlp-lab8/))
-- [compiladores](https://github.com/lucy-dot-exe/compiladores) — Compilers coursework (Rust)
-- [neander](https://github.com/lucy-dot-exe/neander) — Neander simulator: assembler, step-by-step CPU and memory inspector, with a code editor and Scratch-style blocks (TypeScript)
-- [othello-ai-server](https://github.com/lucy-dot-exe/othello-ai-server) — Othello/Reversi AI server ([live demo](https://othello-ai-server.vercel.app)) (TypeScript)
-- [photo-editor](https://github.com/lucy-dot-exe/photo-editor) — Browser-based photo editing app (TypeScript)
-- [reapers-reach](https://github.com/lucy-dot-exe/reapers-reach) — Game project (C++)
+- [Photo Editor](https://github.com/lucy-dot-exe/photo-editor) — Browser-based photo editing app (TypeScript)
+- [Reapers Reach](https://github.com/lucy-dot-exe/reapers-reach) — Game project (C++)
 - [cppsync](https://github.com/lucy-dot-exe/cppsync) — Sync utility (C++)
 - [dfa-minimizer](https://github.com/lucy-dot-exe/dfa-minimizer) — DFA minimization tool (TypeScript)
 
@@ -42,10 +47,22 @@
 
 ## 🎮 Games published
 
-| Game | Description | Built with |
-|---|---|---|
-| [Yuuna's TD](https://lucinaexe.itch.io/yuunas-td) | Tower defense game, playable on itch.io | [yuuna](https://github.com/lucy-dot-exe/yuuna) |
-| [Stackfall](https://lucinaexe.itch.io/stackfall) | Playable on itch.io | |
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://lucinaexe.itch.io/yuunas-td"><img src="assets/games/yuunas-heroes.png" alt="Yuuna's Heroes screenshot" width="100%" /></a>
+      <h3><a href="https://lucinaexe.itch.io/yuunas-td">Yuuna's Heroes</a></h3>
+      <p>An RPG Tower defense game</p>
+      <sub>Built with <a href="https://github.com/lucy-dot-exe/yuuna">yuuna</a></sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://lucinaexe.itch.io/stackfall"><img src="assets/games/stackfall.png" alt="Stackfall screenshot" width="100%" /></a>
+      <h3><a href="https://lucinaexe.itch.io/stackfall">Stackfall</a></h3>
+      <p>A falling-block puzzle game</p>
+      <sub>Built with <a href="https://github.com/lucy-dot-exe/yuuna">yuuna</a></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
