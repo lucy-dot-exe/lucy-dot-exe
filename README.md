@@ -50,16 +50,30 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <a href="https://lucinaexe.itch.io/yuunas-td"><img src="assets/games/yuunas-heroes.png" alt="Yuuna's Heroes screenshot" width="100%" /></a>
+      <a href="https://lucinaexe.itch.io/yuunas-td"><img src="assets/games/yuunas-heroes.png" alt="Yuuna's Heroes cover" width="100%" /></a>
       <h3><a href="https://lucinaexe.itch.io/yuunas-td">Yuuna's Heroes</a></h3>
       <p>An RPG Tower defense game</p>
       <sub>Built with <a href="https://github.com/lucy-dot-exe/yuuna">yuuna</a></sub>
     </td>
     <td align="center" width="50%">
-      <a href="https://lucinaexe.itch.io/stackfall"><img src="assets/games/stackfall.png" alt="Stackfall screenshot" width="100%" /></a>
+      <a href="https://lucinaexe.itch.io/stackfall"><img src="assets/games/stackfall.png" alt="Stackfall cover" width="100%" /></a>
       <h3><a href="https://lucinaexe.itch.io/stackfall">Stackfall</a></h3>
       <p>A falling-block puzzle game</p>
       <sub>Built with <a href="https://github.com/lucy-dot-exe/yuuna">yuuna</a></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚧 Upcoming projects
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://lucinaexe.itch.io/super-builders"><img src="assets/games/super-builders.gif" alt="Super Builders cover" width="420" /></a>
+      <h3><a href="https://lucinaexe.itch.io/super-builders">Super Builders</a></h3>
+      <p>Create, share and play your own levels and monsters</p>
     </td>
   </tr>
 </table>
